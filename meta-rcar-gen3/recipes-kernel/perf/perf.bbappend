@@ -1,1 +1,1 @@
-RDEPENDS_perf-tests_append = " bash"
+RDEPENDS_perf-tests:append = " bash"
